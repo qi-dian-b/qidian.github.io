@@ -10,6 +10,6 @@
 熟悉自然语言处理基础、熟悉图神经基础、
 
  
-<a href="https://github.com/wangsrGit119">
-  <img align="right" src="https://cdn.jsdelivr.net/gh/wangsrGit119/wangsr-image-bucket/img-article/photo-1596492784531-6e6eb5ea9993.jpg" />
-</a>
+<!-- <a href="https://github.com/wangsrGit119"> -->
+ <img align="right" src="https://cdn.jsdelivr.net/gh/wangsrGit119/wangsr-image-bucket/img-article/photo-1596492784531-6e6eb5ea9993.jpg" />
+<!-- </a> -->
