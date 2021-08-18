@@ -13,6 +13,15 @@
 个人博客主页
 </a>
 
-<!-- <a href="https://github.com/wangsrGit119">
-<img align="right" src="https://cdn.jsdelivr.net/gh/wangsrGit119/wangsr-image-bucket/img-article/photo-1596492784531-6e6eb5ea9993.jpg" />
-</a> -->
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html;charset=utf-8"/>
+    <title>严振杰</title>
+</head>
+<body>
+我叫严振杰，软件工程师，英文名Yolanda，尤兰达，他们叫我达哥。
+</body>
+</html>
+
+
